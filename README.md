@@ -7,7 +7,7 @@ Optionally, if it doesn't work you can try
 for camera on ubuntu.
 
 
-in order to start the program. You will be able to see your web cam. Make sure you have allowed access to the camera. Click ESC button to quit.
+You will be able to see your web cam. Make sure you have allowed access to the camera. Click ESC button to quit.
 
 Dependencies: opencv2
 ```pip install opencv-python```
